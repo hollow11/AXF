@@ -22,4 +22,5 @@ urlpatterns = [
     url(r'^generateorder/$', views.generateorder, name='generateorder'),    # 下单
     url(r'^orderinfo/$', views.orderinfo, name='orderinfo'),    # 订单详情
     url(r'^changeorderstatus/$', views.changeorderstatusm, name='changeorderstatus'),   # 修改订单状态
+    url(r'^index/$', views.home, name='home')
 ]

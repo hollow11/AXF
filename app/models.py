@@ -1,7 +1,7 @@
 from django.db import models
 
 # Create your models here.
-#创建模型
+#创建模型，数据库表
 
 
 # 基础 类
