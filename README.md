@@ -5,10 +5,10 @@
 ## 二、代码获取
 ```
 # SSH方式
-git clone git@github.com:iphone3/Python1807AXF.git
+git@github.com:hollow11/AXF.git
 
 # HTTP方式
-git clone https://github.com/iphone3/Python1807AXF.git
+https://github.com/hollow11/AXF.git
 ```
 
 ## 三、安装项目依赖
